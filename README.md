@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Update 1
 This is the first update
 
+### Update 2
+This is the second update
+
